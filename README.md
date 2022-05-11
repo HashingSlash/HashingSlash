@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HashingSlash
 - 👀 I’m interested in music/games/cryptocurrency
 - 🌱 I’m currently learning python/APIs
-- 📫 How to reach me TBA
+- 📫 How to reach me: https://twitter.com/HashingSlash
 
 <!---
 HashingSlash/HashingSlash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
