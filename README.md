@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python/APIs
 - 📫 How to reach me: https://twitter.com/HashingSlash
 
-Donations: ALGO - SLASHDABBEUIM3ZBALEZCV5UXGF67TXU4H25UU6BILRIMA6EJ4ZJ2BATOM
+Donations: HSY2V6IMWVOTZB6I6X7DULB7VD6N7MU65QQMN4TVOJCJ4K2DD2KN2J6ZIU
 
 
 <!---
